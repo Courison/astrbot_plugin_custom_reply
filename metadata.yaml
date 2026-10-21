@@ -1,0 +1,7 @@
+name: astrbot_plugin_custom_reply
+display_name: 自定义指令回复
+short_desc: 识别指定的 /<功能> 指令，回复设定好的文本
+desc: 通过配置自定义指令和对应的回复内容，支持多条指令动态热更新。
+version: 1.0.0
+author: 你的名字
+repo: https://github.com/courison/astrbot_plugin_custom_reply

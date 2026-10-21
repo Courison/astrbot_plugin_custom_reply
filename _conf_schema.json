@@ -1,0 +1,14 @@
+{
+  "enable": {
+    "description": "启用未知指令兜底",
+    "type": "bool",
+    "hint": "是否开启该功能",
+    "default": true
+  },
+  "fallback_text": {
+    "description": "兜底回复内容",
+    "type": "string",
+    "hint": "当用户输入未注册的 / 指令时，机器人回复的内容",
+    "default": "🤔 没有找到这个功能哦，请检查指令是否输入正确~"
+  }
+}
